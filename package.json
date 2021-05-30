@@ -10,7 +10,7 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.1",
+    "react-scripts": "^4.0.3",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
@@ -39,7 +39,7 @@
   },
   "devDependencies": {
     "gulp": "^4.0.2",
-    "gulp-changed": "^4.0.2",
+    "gulp-changed": "^3.2.0",
     "gulp-clean-css": "^4.3.0",
     "gulp-rename": "^2.0.0",
     "gulp-sass": "^4.1.0",
